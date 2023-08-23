@@ -44,10 +44,18 @@ Dynamic Load Variations: The WLTP drive cycle considers variations in vehicle lo
 7) Plot the results by importing all the data into the Matlab workspace. More information is given in the [MATLAB plot documentation](https://in.mathworks.com/help/matlab/ref/plot.html)
 8) Interpret the data and understand how this data will provide valuable information for advanced heat dissipation calculations or motor selections.
 
+   
 
+## Conclusion 
+In conclusion, the meticulous calculations and considerations related to energy battery capacity and heat dissipation requirements play a crucial role in designing efficient and reliable energy storage systems. By accurately assessing the energy demands of the intended application and factoring in variables such as discharge rates, operating temperatures, and heat generation, engineers can determine the optimal battery capacity and the necessary heat dissipation mechanisms.
+
+In an era where sustainable energy solutions are paramount, these calculations not only ensure the reliable operation of energy storage systems but also pave the way for innovation and progress in various fields. Whether it's advancing electric vehicle technology, enabling the integration of renewable energy sources, or enhancing the resilience of power distribution networks, the data derived from energy battery calculations and heat dissipation requirements is the cornerstone upon which these advancements are built. As technology continues to evolve, the significance of accurate calculations and data-driven design approaches will only become more pronounced, driving us towards a greener and more energy-efficient future.
 
 
 
 ## Impact
 
 Contribute to the electrification of transport worldwide. Provide data and increase the range, performance, and battery life of EVs.
+
+## Skills attained 
+MATLAB mscript, Microsoft Excel calculations, Vehicle dynamics, Energy Requirements, BCS requirements, Battery range optimizations 
