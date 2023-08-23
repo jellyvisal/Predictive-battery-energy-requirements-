@@ -30,7 +30,8 @@ Dynamic Load Variations: The WLTP drive cycle considers variations in vehicle lo
 The drive cycle for WLTP class 1 is as follows for the time vs speed plot. It was obtained using simple plot commands in MATLAB 
 
 
-![wltc_class3a](https://github.com/jellyvisal/Predictive-battery-energy-requirements-/assets/142890460/af58c6c0-16e6-4238-b976-0fa7fff08c89)
+![image](https://github.com/jellyvisal/Predictive-battery-energy-requirements-/assets/142890460/e52fad49-4cba-48b9-844a-af3b1e9a5ad8)
+
 
 
 ## Suggested Prerequisits 
