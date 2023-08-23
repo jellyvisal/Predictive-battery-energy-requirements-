@@ -1,18 +1,17 @@
-# Predictive-battery-energy-requirements- 
+<table>
+<td><img src="https://x-engineer.org/wp-content/uploads/2018/11/Speed-profile-for-WLTC-Class-3-driving-cycle.png"  width=500 /></td>
+<td><p><h1>EV-Battery energy requirements and heat dissipation requirements </h1></p>
+<p> Improve range, performance, and battery life by designing a cooling algorithm that keep EV battery packs cool when they need it most.</p>
+</table>
 
+## Motivation and Results: 
 Designing an energy-efficient and thermally optimized battery pack is crucial for various applications, from electric vehicles to renewable energy storage systems.
 The energy requirements for a battery pack and the associated cooling requirements are closely interconnected, as both factors impact the overall performance, 
 safety, and longevity of the system.
 
-Energy Requirements for Battery Pack:
+## Energy Requirements for Battery Pack:
 
-The energy requirements of a battery pack depend on the intended application and the desired operational parameters. Here are the key factors that 
-determine the energy requirements:
-
-The Excel sheet called "Tataace1.5Ton" contains the vehicle dynamics calculations and heat generated in the battery pack during the drive cycle. 
-
-THe Drive cycle chosen for the experiment is WLTP Class 1 
-WLTP is an international driving cycle standard and is know for its rugged nature and extreme simulation conditions. 
+The energy requirements of a battery pack depend on the intended application and the desired operational parameters. The Excel sheet called "Tataace1.5Ton" contains the vehicle dynamics calculations and heat generated in the battery pack during the drive cycle. The Drive cycle chosen for the experiment is WLTP Class 1; WLTP is an international driving cycle standard and is known for its rugged nature and extreme simulation conditions. 
 Here are the key reasons why the WLTP drive cycle is considered harsher:
 
 Realistic Driving Conditions: The WLTP drive cycle incorporates a broader range of driving scenarios that are more representative of real-world driving conditions. This includes a mix of urban, suburban, and highway driving, as well as variations in speed, acceleration, and deceleration. The NEDC, on the other hand, had a more limited set of driving conditions that did not accurately capture the complexities of actual driving patterns.
