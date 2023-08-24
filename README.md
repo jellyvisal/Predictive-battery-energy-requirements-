@@ -1,13 +1,14 @@
 <table>
 <td><img src="https://github.com/jellyvisal/Predictive-battery-energy-requirements-/assets/142890460/58f213ee-3f46-4051-acc8-d8587d25cb9b"  width=500 /></td>
 <td><p><h1>EV-Battery energy requirements and heat dissipation requirements </h1></p>
-<p> Improve range, performance, and battery life by designing a cooling algorithm that keep EV battery packs cool when they need it most.</p>
+<p> Improve range, performance, and battery life by designing a battery pack considering a high-fidelity model and correlating the results with relevant theory.</p>
 </table>
 
 ## Motivation and Results: 
 Designing an energy-efficient and thermally optimized battery pack is crucial for various applications, from electric vehicles to renewable energy storage systems.
 The energy requirements for a battery pack and the associated cooling requirements are closely interconnected, as both factors impact the overall performance, 
-safety, and longevity of the system.
+safety, and longevity of the system. We can observe that we have designed the battery pack requirements and specs needed for further calculations from the manufacturer.
+We also understand the impact of these characters on the battery performance characteristics and safety aspects. 
 
 ## Difficulty level
 Bachelor's
